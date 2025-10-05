@@ -69,18 +69,6 @@ FreshStock AI solves critical inventory management challenges faced by small gro
 - Time Series Analysis  
 - Categorical Encoding  
 
-## 📁 Project Structure
-
-├── freshstock_analysis.py  
-├── dashboard.html  
-├── data/  
-│   └── generated_grocery_data.csv  
-├── results/  
-│   ├── model_metrics.json  
-│   └── *.png  
-└── docs/  
-    └── business_report.md  
-
 ## 🚀 Quick Start
 
 ### Installation
