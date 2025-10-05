@@ -53,9 +53,6 @@ FreshStock AI solves critical inventory management challenges faced by small gro
 ### Model Performance Metrics
 ![Model Performance](results/model_performance.png)
 
-### Business Intelligence Interface
-![Web Interface](results/web_interface.png)
-
 ## 🛠️ Technology Stack
 
 **Backend & ML**:  
